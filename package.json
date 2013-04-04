@@ -1,0 +1,12 @@
+{
+    "name": "Twitter-auth",
+    "description": "retrieve timeline user",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+	"passport" : "0.1.x",
+	"passport-twitter": "0.1.x",
+	"oauth": "0.9.x"
+    }
+}
